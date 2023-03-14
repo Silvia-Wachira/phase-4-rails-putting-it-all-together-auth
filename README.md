@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Authenticate a user with a username and password
+- Authenticate a user with a username and a password
 - Authorize logged in users for specific actions
 
 ## Introduction
